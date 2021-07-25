@@ -1,0 +1,49 @@
+	 [
+		{
+			"from": "Mumbai",
+			"to": "Pune",
+			"fare": "3000",
+			"flightcode": "A101",
+			"depart": "12:00",
+			"arrival": "14:00",
+			"date": "2021-07-14"
+		},
+		{
+			"from": "Mumbai",
+			"to": "Pune",
+			"fare": "4000",
+			"flightcode": "a101",
+			"depart": "12:00",
+			"arrival": "14:00",
+			"date": "2021-07-27"
+		},
+		{
+			"from": "Pune",
+			"to": "Mumbai",
+			"fare": "4000",
+			"flightcode": "AB101",
+			"depart": "18:00",
+			"arrival": "20:00",
+			"date": "2021-07-28"
+		},
+		{
+			"from": "Delhi",
+			"to": "Pune",
+			"fare": "8000",
+			"flightcode": "a101",
+			"depart": "12:00",
+			"arrival": "14:00",
+			"date": "2021-07-27"
+		},
+		{
+			"from": "Delhi",
+			"to": "Banglore",
+			"fare": "5000",
+			"flightcode": "a1021",
+			"depart": "5:00",
+			"arrival": "7:00",
+			"date": "2021-08-05"
+		}
+
+	]
+
